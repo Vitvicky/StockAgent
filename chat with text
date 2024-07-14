@@ -1,7 +1,7 @@
 
 
 
-step 1: API key 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
+step 1: API key Prepare You Own API Key
 step 2: create python virtual envirment
 
         python3 -m venv stock-agent3
